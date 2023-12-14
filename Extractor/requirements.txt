@@ -3,7 +3,7 @@ cffi==1.14.3
 chardet==3.0.4
 construct==2.10.56
 crypto==1.4.1
-cryptography==41.0.4
+cryptography==41.0.6
 et-xmlfile==1.0.1
 idna==2.10
 jdcal==1.4.1
@@ -16,4 +16,4 @@ PyYAML==5.4
 requests==2.31.0
 shellescape==3.8.1
 six==1.15.0
-urllib3==1.26.17
+urllib3==1.26.18
