@@ -10,7 +10,7 @@ jdcal==1.4.1
 lxml==4.9.1
 Naked==0.1.31
 protobuf==3.18.3
-pycryptodome==3.9.9
+pycryptodome==3.19.1
 pytlv==0.71
 PyYAML==5.4
 requests==2.31.0
